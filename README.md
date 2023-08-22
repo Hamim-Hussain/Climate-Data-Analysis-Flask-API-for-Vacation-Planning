@@ -3,7 +3,7 @@
 
 
 ## Introduction
-Planning a relaxing vacation in Honolulu, Hawaii? Here's how to analyze the climate data and design a Flask API to help make your trip unforgettable.
+Planning a relaxing vacation in Honolulu, Hawaii? Here's how to analyse the climate data and design a Flask API to help make your trip unforgettable.
 
 ## Part 1: Climate Data Analysis
 Utilise Python, SQLAlchemy, Pandas, and Matplotlib to explore climate data and gain insights. Follow these steps using the provided files (climate_starter.ipynb and hawaii.sqlite):
