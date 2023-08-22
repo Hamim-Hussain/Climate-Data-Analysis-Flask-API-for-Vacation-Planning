@@ -1,4 +1,6 @@
 # Climate Data Analysis & Flask API for Vacation Planning
+<img src="images/surf.JPG" width="1000" height="491">
+
 
 ## Introduction
 Planning a relaxing vacation in Honolulu, Hawaii? Here's how to analyze the climate data and design a Flask API to help make your trip unforgettable.
