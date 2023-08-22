@@ -1,5 +1,5 @@
 # Climate Data Analysis & Flask API for Vacation Planning
-<img src="images/surf.JPG" width="1000" height="491">
+<img src="images/surf.jpg" width="1000" height="491">
 
 
 ## Introduction
